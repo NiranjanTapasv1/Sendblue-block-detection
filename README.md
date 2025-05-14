@@ -27,6 +27,7 @@ The dummy data was designed to mirror key fields in Sendblue’s actual system, 
 ## 📊 Output Visualizations
 
 - Volume vs. Error by block status
+  
   <img width="697" alt="image" src="https://github.com/user-attachments/assets/47f134d8-a431-40f5-90b5-1a4c528e3d3a" /></br>
  
 - Per-number message/error activity
