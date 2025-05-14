@@ -1,6 +1,8 @@
 # 📬 sendblue-block-detection
 
-A machine learning–based simulation to identify potential Apple iMessage rate limits and blocked senders. This project uses synthetic message data to show how Sendblue-like platforms can detect blocking behavior, engineer time-based features, and build reusable ML pipelines.
+A machine learning–based simulation using dummy data modeled after Sendblue’s message schema. This project demonstrates how messaging platforms can detect blocking behavior (such as hitting Apple iMessage rate limits), engineer useful time-based features, and create a flexible ML-ready dataset.
+
+The dummy data was designed to mirror key fields in Sendblue’s actual system, including `sendblueNumber`, message status, error logs, and timestamps.
 
 ---
 
